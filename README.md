@@ -13,14 +13,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=nillyoo&show_icons=true" />
 </picture>
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nillyoo&layout=compact&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nillyoo&layout=compact"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-  <img src="https://github-readme-stats.vercel.app/api?username=nillyoo&show_icons=true" />
-</picture>
+![TaeilYoo's Most Language](https://github-readme-stats.vercel.app/api/top-langs/?username=nillyoo&layout=compact)
+
