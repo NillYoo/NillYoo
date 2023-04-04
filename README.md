@@ -30,9 +30,9 @@
 </p>
 
 <!-- visitor count -->
-<div align="center">
+<p align="center">
   <h3>Visitor count</h3>
 
   ![Visitor Count](https://profile-counter.glitch.me/nillyoo/count.svg)
 
-</div>
+</p>
