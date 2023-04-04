@@ -28,3 +28,11 @@
     <img src="https://github-readme-stats.vercel.app/api?username=nillyoo&show_icons=true" />
   </picture>
 </p>
+
+<!-- visitor count -->
+<div align="center">
+  <h3>Visitor count</h3>
+
+  ![Visitor Count](https://profile-counter.glitch.me/nillyoo/count.svg)
+
+</div>
