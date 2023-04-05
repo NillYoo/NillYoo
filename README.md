@@ -5,30 +5,16 @@
 
 <div align="center">
   <!-- Git stats Card -->
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=nillyoo&show_icons=true&locale=kr&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=nillyoo&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=nillyoo&show_icons=true" />
-  </picture>
-
-  <!-- Git Lang Card -->
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nillyoo&layout=compact&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nillyoo&layout=compact"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=nillyoo&show_icons=true" />
-  </picture>
+  <table align="center">
+    <tr>
+      <td valign="top">
+      <img src ="https://github-readme-stats.vercel.app/api?username=nillyoo&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000&title_color=39d353&icon_color=006d32&locale=kr">
+      </td>
+      <td valign="top">
+      <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=nillyoo&layout=compact&hide_border=true&theme=merko&bg_color=00000000&title_color=39d353&langs_count=8">
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
