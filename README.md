@@ -97,6 +97,9 @@
       <td valign="top">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nillyoo&theme=merko&hide_border=true&bg_color=00000000&title_color=B7E703&icon_color=B7E703&locale=kr" />
       </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nillyoo&theme=merko&hide_border=true&bg_color=00000000&title_color=B7E703&icon_color=B7E703&locale=kr" />
+      </td>
     </tr>
     <tr>
       <td valign="top">
