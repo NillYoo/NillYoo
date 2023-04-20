@@ -94,8 +94,8 @@
   <!-- Git stats Card -->
   <table align="center">
     <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nillyoo&theme=prussian" width="100%"/>
+      <td valign="top">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nillyoo&theme=merko&hide_border=true&bg_color=00000000&title_color=B7E703&icon_color=B7E703&locale=kr" />
       </td>
     </tr>
     <tr>
