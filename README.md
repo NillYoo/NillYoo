@@ -97,6 +97,8 @@
       <td>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nillyoo&theme=prussian" width="100%"/>
       </td>
+    </tr>
+    <tr>
       <td valign="top">
         <img src ="https://github-readme-stats.vercel.app/api?username=nillyoo&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000&title_color=B7E703&icon_color=B7E703&locale=kr">
       </td>
