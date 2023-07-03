@@ -115,7 +115,7 @@
 ---
 <!-- 3D Comits -->
 <div align="center">
-  <h3>3D Profile</h3>
+  <!-- <h3>3D Profile</h3> -->
 
   ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
