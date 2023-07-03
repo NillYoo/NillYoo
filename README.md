@@ -116,11 +116,15 @@
 <!-- 3D Comits -->
 <div align="center">
   <h3>3D Profile</h3>
-  ![](./profile-3d-contrib/profile-night-green.svg)
+
+  ![](./profile-3d-contrib/profile-green-animate.svg)
+
 </div>
 
 <!-- visitor count -->
 <div align="center">
   <h3>Visitor count</h3>
+
   ![Visitor Count](https://profile-counter.glitch.me/nillyoo/count.svg)
+  
 </div>
