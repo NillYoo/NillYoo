@@ -119,7 +119,5 @@
   <h3>Visitor count</h3>
 
   ![Visitor Count](https://profile-counter.glitch.me/nillyoo/count.svg)
-
+  ![](./profile-3d-contrib/profile-green-animate.svg)
 </div>
-
-![](./profile-3d-contrib/profile-green-animate.svg)
